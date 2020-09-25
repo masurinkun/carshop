@@ -1,0 +1,26 @@
+#history_banner{
+  height: 400px;
+  width: 400px;
+  /* background-image: url('../images/2000\ year\ car.jpg') ; */
+  /* background-repeat: no-repeat; */
+  /* background-position: 40px 50px; */
+  /* background-attachment: fixed; */
+  /* background-size: center center; */
+  /* background: blue url('../images/2000\ year\ car.jpg') no-repeat 30px 40px; */
+  background-color: rgb(188, 187, 143);
+  /* padding: 70px;
+  border: 10px solid black;
+  margin: 30px; */
+  box-shadow: 0 0 15px rgb(17, 4, 4);
+  /* box-sizing: border-box; */
+  display: block;
+  position: relative;
+  left: 50px;
+  top: 50px;
+  z-index: -1;
+  border-radius: 15px;
+}
+ul li{
+  display: block;
+  /* height: 600px; */
+}
